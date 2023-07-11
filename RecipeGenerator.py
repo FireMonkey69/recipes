@@ -18,7 +18,7 @@
     "from requests.structures import CaseInsensitiveDict\n",
     "\n",
     "# Authenticate with OpenAI API\n",
-    "openai.api_key = \"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\"\n",
+    "openai.api_key = \"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\"\n",
     "\n",
     "# Prompt user for dish name\n",
     "dish_name = input(\"Enter the name of the dish: \")\n",
